@@ -1,0 +1,13 @@
+Features of the calculator---
+1. when someone click on any number then it will show on the display also concatinate it..
+2. when someone click on the AC button then all the display number is going to be deleted and when someone click on the DE button then it only delete one number.
+3. it will perfrom operation like addition, substraction, division etc..
+4. also perform increment decrement.
+5. also perform square.  
+------------------------------------------------------------------------------
+steps---
+1. Select all the necessary elements.
+------------------------------------------------------------------------------
+
+functions needed --
+1. make a function that displays the entering expresion like(45 + 56)..
